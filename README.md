@@ -63,6 +63,7 @@ PePacker.exe mimikatz.exe -d			: generate dll output
 
 ### Demo - Builder :
 ![Screenshot 2022-10-12 073947](https://user-images.githubusercontent.com/111295429/195251679-8eff4195-2f05-4dd7-9e97-3ee7e161fa5c.png)
+![Screenshot 2022-10-12 074128](https://user-images.githubusercontent.com/111295429/195252144-1c32c279-2e22-4ccd-8b06-6b2aac901324.png)
 
 
 
