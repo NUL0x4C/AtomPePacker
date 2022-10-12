@@ -21,6 +21,7 @@
 
 
 ### Builder :
+- you can download from [here](https://github.com/ORCx41/AtomPePacker/releases/tag/1) or compile the code manually
 - supports only 1 input: `x64 native exe files.`
 - supports 3 outputs:
   - dll :
