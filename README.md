@@ -76,7 +76,12 @@ PePacker.exe mimikatz.exe -d			: generate dll output
 ![photo_2022-10-12_07-08-38](https://user-images.githubusercontent.com/111295429/195249100-1fe2a944-c67f-4495-b20f-8062afe6a429.jpg)
 
 
-### TODO:
+### Thanks for :
+- https://github.com/lloyd/easylzma
+- https://github.com/vxunderground/VX-API
+
+
+### TODO :
   - x32 support
   - reduce the entropy
 
