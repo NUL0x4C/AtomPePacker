@@ -78,7 +78,7 @@ PePacker.exe mimikatz.exe -d			: generate dll output
 
 ### TODO:
   - x32 support
-  - reducing the entropy
+  - reduce the entropy
 
 
 
