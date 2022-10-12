@@ -11,7 +11,7 @@
 - support reallocation in case of needed ( the image is mapped to the preferable address first )
 - no rwx section allocation 
 - support exception handling
-- uses elzma compression algorithm to do the compression (reducing the final exe size)
+- uses elzma compression algorithm to do the compression (reducing the final file size)
 - its local run pe, so it support arguments 
 - fake imported functions to add more friendly look to the iat 
 
