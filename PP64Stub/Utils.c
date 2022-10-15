@@ -46,8 +46,8 @@ LPVOID GetDllFromKnownDlls(PWSTR DllName) {
 	WCHAR FullName[MAX_PATH];
 	WCHAR Buf[MAX_PATH] = { L'\\', L'K', L'n', L'o', L'w', L'n', L'D', L'l', L'l', L's', L'\\' };
 
-	_strcpy(FullName, Buf);
-	_strcat(FullName, DllName);
+	_strcpyW(FullName, Buf);
+	_strcatW(FullName, DllName);
 	_RtlInitUnicodeString(&UniStr, FullName);
 
 
