@@ -133,7 +133,7 @@ INT main(INT argc, CHAR* argv[]) {
 			IsExe = FALSE;
 		}
 		else {
-			printf("[i] \"%s\" Is Invalid Input, Defaulting To Outputting Exe File ... \n");
+			printf("[i] \"%s\" Is Invalid Input, Defaulting To Outputting Exe File ... \n", argv[2]);
 		}
 	}
 
